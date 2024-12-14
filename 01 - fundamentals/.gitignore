@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Bower components
+bower_components/
+
+# Build output
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Cache files
+.cache/
+
+# Coverage reports
+coverage/
+
+# VS Code settings
+.vscode/
+
+# IDE/editor configuration
+.vs/
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Etc.
+*.swp
+*.swo
+*.tmp
